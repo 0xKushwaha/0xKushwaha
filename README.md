@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayushkushwaha240
 - 👀 I’m interested in Deel Learning
-- 🌱 I’m currently learning GenAI
+- 🌱 I’m currently learning RL
 - 💞️ I’m looking to collaborate on some interesting problems
 
 <!---
