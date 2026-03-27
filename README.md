@@ -32,8 +32,6 @@ I’m driven by solving complex problems at the intersection of AI research and 
 
 - 🥈 **Kaggle Silver Medalist** - CSIRO Pasture Biomass Prediction (2026)
 - 🔬 **Research Experience** - Deep Learning at JNU & DRDO
-- 💻 **ML Engineering** - Vector DB optimization (1.8× speedup), distributed training methods
-- 🎓 **Leadership** - Led EngQuest (100+ participants) & HackJNU (200+ participants)
 
 ---
 
