@@ -17,8 +17,6 @@ I’m a passionate AI/ML engineer with deep expertise in **Computer Vision**, **
 
 I’m driven by solving complex problems at the intersection of AI research and real-world implementation. My interests span image translation, model optimization, and designing scalable ML pipelines. I believe in writing clean, thoughtful code and creating polished solutions that make a genuine impact.
 
-**Currently:** Final year B.Tech student at **Jawaharlal Nehru University** | Based in Delhi
-
 ---
 
 ## 🛠️ Technical Stack
